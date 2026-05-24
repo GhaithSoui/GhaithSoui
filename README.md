@@ -36,7 +36,12 @@
 ![SGBD](https://img.shields.io/badge/SGBD-Database-orange?style=for-the-badge) 
 ![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge) 
 ![MVC](https://img.shields.io/badge/MVC-Architecture-red?style=for-the-badge)
-
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge) 
+![Render](https://img.shields.io/badge/render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=GhaithSoui&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
@@ -48,9 +53,4 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=GhaithSoui&icon=0&color=0)](https://visitcount.itsvg.in)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge) 
-![Render](https://img.shields.io/badge/render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
